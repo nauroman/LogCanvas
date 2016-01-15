@@ -1,5 +1,9 @@
 # Unity Log Canvas
 
+**HTML5 Example:**
+
+http://flashunity.com/logcanvas
+
 **Using:**
 
 Put LogCanvas prefab on your scene, then:
