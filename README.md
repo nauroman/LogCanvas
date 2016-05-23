@@ -4,6 +4,8 @@
 
 http://flashunity.com/logcanvas
 
+![Screenshot](http://flashunity.com/assets/logcanvas/1.png)
+
 **Using:**
 
 Put LogCanvas prefab on your scene, then:
